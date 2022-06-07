@@ -1,5 +1,4 @@
 #!/bin/zsh
-cmake -S src -B build
-cd build || exit
-make
-./OpenGLRetro
+cmake -S . -B build
+ninja -C build -j 20
+./build/OpenGLRetro
