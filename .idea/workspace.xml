@@ -25,6 +25,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -67,7 +68,7 @@
       <recent name="$PROJECT_DIR$/Adder" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.build">
+  <component name="RunManager" selected="CMake Application.Build">
     <configuration name="Build" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Release" RUN_PATH="$PROJECT_DIR$/build/OpenGLRetro" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -137,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654571233373</updated>
       <workItem from="1654571234903" duration="4971000" />
-      <workItem from="1654576564619" duration="5415000" />
+      <workItem from="1654576564619" duration="5913000" />
     </task>
     <servers />
   </component>
