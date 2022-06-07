@@ -1,0 +1,5 @@
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja /home/dappercore/CLionProjects/OpenGLRetro
+-- Using X11 for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dappercore/CLionProjects/OpenGLRetro/build
