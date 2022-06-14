@@ -4,12 +4,6 @@
 
 #include "shaders.h"
 
-#include <string>
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <algorithm>
-
 
 std::string readFile(const char *filePath) {
     std::string content;
